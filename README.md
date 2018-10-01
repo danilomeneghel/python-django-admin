@@ -49,7 +49,11 @@ Finally open http://localhost:8000/admin/ in your browser.
 $ python manage.py show_urls
 ```
 
-## Connection
+## Demonstration
+
+https://python-django-admin.herokuapp.com/admin
+
+## Login
 
 To be able to connect, I advise you to create an account on the panel.
 
