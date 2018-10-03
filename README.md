@@ -63,7 +63,7 @@ To be able to connect, I advise you to create an account on the panel.
 
 ## License
 
-Office is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
+This project is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 
 ## Screenshots
 
